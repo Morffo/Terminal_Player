@@ -1,0 +1,5 @@
+asciimatics==1.15.0
+pillow==11.0.0
+pyfiglet==1.0.2
+pygame==2.6.1
+wcwidth==0.2.13
