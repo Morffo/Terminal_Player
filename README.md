@@ -25,8 +25,3 @@ pip install -r requirements.txt
 ```Bash
 python music_oop.py
 ```
-OR
-
-```Bash
-python tkinter_interface.py
-```
